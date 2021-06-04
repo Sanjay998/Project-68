@@ -1,0 +1,26 @@
+#video {
+    width: 1770;
+    height: 1000;
+}
+
+.announcement {
+    background-color: blue;
+}
+
+.map {
+
+    float: left;
+}
+
+.details {
+    float: left;
+}
+
+#principal {
+    height: 300;
+    width: 300;
+}
+
+.Names {
+    float: left;
+}
